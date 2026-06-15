@@ -1,18 +1,147 @@
-# 💫 About Me:
-Hi, I'm Alekhya 👋  <br>B.Tech CSE (AI & ML) Student  <br><br>💻 Interested in AI, Machine Learning & Full Stack Development  <br>🌱 Currently learning Data Structures, Python & ML  <br>🚀 Building projects to solve real-world problems  <br>📫 Reach me: alekhyak086@gmail.com<br>
+# <p align="center">Hi 👋, I'm Alekhya Kudipudi</p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alekhya-kudipudi) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=KUDIPUDIALEKHYA&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=KUDIPUDIALEKHYA&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KUDIPUDIALEKHYA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Python+Developer;Building+AI+Powered+Projects;Lifelong+Learner+%F0%9F%9A%80" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=KUDIPUDIALEKHYA&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+🎓 B.Tech Computer Science (AI & ML)
+
+💡 Passionate about Artificial Intelligence, Machine Learning, and solving real-world problems through technology.
+
+🌱 Currently learning:
+
+* Machine Learning
+* Deep Learning
+* Data Structures & Algorithms
+* Model Deployment
+
+🚀 Building projects that combine AI and software engineering.
+
+🎯 Goal: Become an AI/ML Engineer capable of designing and deploying intelligent systems at scale.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/alekhya-kudipudi-2017943b2">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Alekhya_086/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/alekhyak086">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+</p>
+
+📧 Email: **[alekhyak086@gmail.com](mailto:alekhyak086@gmail.com)**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql\&logoColor=white)
+
+### AI / Machine Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode)
+
+---
+
+## 🚀 Featured Projects
+
+🔹 Noema
+
+🔹 Machine Learning Projects
+
+🔹 Python Projects
+
+🔹 Data Structures & Algorithms Repository
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KUDIPUDIALEKHYA&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUDIPUDIALEKHYA&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=KUDIPUDIALEKHYA&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=KUDIPUDIALEKHYA&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Alekhya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KUDIPUDIALEKHYA\&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🧠 LeetCode Statistics
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Alekhya_086?theme=dark\&font=Karma)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/KUDIPUDIALEKHYA/KUDIPUDIALEKHYA/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📌 Profile Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KUDIPUDIALEKHYA\&theme=tokyonight)
+
+---
+
+## ⏰ Coding Activity
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KUDIPUDIALEKHYA\&theme=tokyonight\&utcOffset=5.5)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=KUDIPUDIALEKHYA\&color=blueviolet)
+
+---
+
+### 💭 Motto
+
+"Learn. Build. Improve. Repeat."
