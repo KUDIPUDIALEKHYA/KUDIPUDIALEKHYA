@@ -69,18 +69,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-🔹 Noema
-
-🔹 Machine Learning Projects
-
-🔹 Python Projects
-
-🔹 Data Structures & Algorithms Repository
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
